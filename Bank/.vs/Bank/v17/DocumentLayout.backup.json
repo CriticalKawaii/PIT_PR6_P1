@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarga\\Desktop\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5404F819-BB77-45B0-9B2C-9E908032161E}|..\\BankTests\\BankTests.csproj|c:\\users\\sarga\\desktop\\banktests\\bankaccountcredittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5404F819-BB77-45B0-9B2C-9E908032161E}|..\\BankTests\\BankTests.csproj|c:\\users\\sarga\\desktop\\banktests\\bankaccountdebittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417B5E8B-EEC2-41C1-8812-8D6BF558B4B1}|Bank.csproj|c:\\users\\sarga\\desktop\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B5E8B-EEC2-41C1-8812-8D6BF558B4B1}|Bank.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountCreditTest.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\BankTests\\BankAccountCreditTest.cs",
+              "RelativeDocumentMoniker": "..\\BankTests\\BankAccountCreditTest.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\BankTests\\BankAccountCreditTest.cs",
+              "RelativeToolTip": "..\\BankTests\\BankAccountCreditTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:50:25.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountDebitTests.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\BankTests\\BankAccountDebitTests.cs",
+              "RelativeDocumentMoniker": "..\\BankTests\\BankAccountDebitTests.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\BankTests\\BankAccountDebitTests.cs",
+              "RelativeToolTip": "..\\BankTests\\BankAccountDebitTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:29:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\sarga\\Desktop\\Bank\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\sarga\\Desktop\\Bank\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:19:10.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
